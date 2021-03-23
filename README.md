@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [faceApp](https://github.com/pedrohperoni/face-app)
 
-- 🌱 I’m currently learning **React, Node.js, Vue**
+- 🌱 I’m currently learning **React, Node.js, Javascript**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/pedrohperoni?tab=repositories)
 
-- 💬 Ask me about **react, node and vue**
+- 💬 Ask me about **react, node and JS**
 
 - 📫 How to reach me **pedrohperoni@gmail.com**
 
@@ -29,12 +29,8 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 
 
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrohperoni&show_icons=true&locale=en&layout=compact" alt="pedrohperoni" /></p>
 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohperoni&show_icons=true&locale=en" alt="pedrohperoni" /></p>
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrohperoni&show_icons=true&locale=en&layout=compact" alt="pedrohperoni" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohperoni&show_icons=true&locale=en" alt="pedrohperoni" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohperoni&" alt="pedrohperoni" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohperoni&" alt="pedrohperoni" /></p>
