@@ -13,8 +13,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/pedrohperoni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1616531187~hmac=cd0536f8d2f2afc7d45cc87e4cae6118" alt="pedrohperoni" height="30" width="40" /></a>
-<a href="https://dribbble.com/pedrohperoni" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/1532/1532541.svg?token=exp=1616531211~hmac=5b424eb210a57e23cf1b59c2be3be886" alt="pedrohperoni" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pedrohperoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pedrohperoni" height="30" width="40" /></a>
+<a href="https://dribbble.com/pedrohperoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="pedrohperoni" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pedrohperoni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="pedrohperoni" height="30" width="40" /></a>
 </p>
 
