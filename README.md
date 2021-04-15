@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/pedrohperoni?tab=repositories)
 
-- 💬 Ask me about **react, node and JS**
-
 - 📫 How to reach me **pedrohperoni@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
