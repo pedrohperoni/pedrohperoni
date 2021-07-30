@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
 
 - 🔭 I’m currently working on [faceApp](https://github.com/pedrohperoni/face-app)
-
 - 🌱 I’m currently learning **React, Node.js, Javascript**
-
 - 👨‍💻 All of my projects are available [here](https://github.com/pedrohperoni?tab=repositories)
 
 - 📫 How to reach me **pedrohperoni@gmail.com**
