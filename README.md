@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 
-- 🔭 I’m currently working on [faceApp](https://github.com/pedrohperoni/face-app)
+
 - 🌱 I’m currently learning **React, Node.js, Javascript**
 - 👨‍💻 All of my projects are available [here](https://github.com/pedrohperoni?tab=repositories)
 
