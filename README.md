@@ -26,4 +26,4 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrohperoni&show_icons=true&locale=en" alt="pedrohperoni" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrohperoni&" alt="pedrohperoni" /></p>
+
