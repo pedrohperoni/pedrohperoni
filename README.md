@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning **React, Node.js, Javascript**
+- 🌱 I’m currently learning **React, Node.js, Typescript**
 - 👨‍💻 All of my projects are available [here](https://github.com/pedrohperoni?tab=repositories)
 
 - 📫 How to reach me **pedrohperoni@gmail.com**
