@@ -1,9 +1,14 @@
-<h2 align="center">Hi 👋, I'm Pedro</h2>
+# Hi there👋 I'm Pedro 📍 Now living in Florianópolis
 
-🔭 I’m currently working on [Foodify](https://yfidoof.vercel.app/)
+[![Linkedin: Pedro Peroni](https://img.shields.io/badge/-Pedro%20Peroni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohperonis/)](https://www.linkedin.com/in/pedrohperoni/)
 
 
-🌱 I’m working with 
+## 🔭 I’m currently working on [Foodify](https://yfidoof.vercel.app/)
+#### 👨‍💻 All of my projects are available [here](https://github.com/pedrohperoni?tab=repositories)
+#### 📝 
+
+
+ 
  
    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -13,10 +18,9 @@
    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
    
 
-👨‍💻 All of my projects are available [here](https://github.com/pedrohperoni?tab=repositories)
 
 
-### Connect with me:
+## 📫 How to reach me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohperoni/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohperoni@gmail.com)
