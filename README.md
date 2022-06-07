@@ -1,4 +1,4 @@
-# Hi there👋 I'm Pedro 📍 Now living in Florianópolis
+# Hi there👋 I'm Pedro
 
 [![Linkedin: Pedro Peroni](https://img.shields.io/badge/-Pedro%20Peroni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrohperonis/)](https://www.linkedin.com/in/pedrohperoni/)
 
