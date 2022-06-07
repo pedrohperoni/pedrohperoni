@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pedro</h1>
-
+<h2 align="center">Hi 👋, I'm Pedro</h2>
 
 🔭 I’m currently working on [Foodify](https://yfidoof.vercel.app/)
+
 
 🌱 I’m working with 
  
@@ -11,16 +11,17 @@
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/> </a>
+   
 
 👨‍💻 All of my projects are available [here](https://github.com/pedrohperoni?tab=repositories)
 
 
-## Connect with me:
+### Connect with me:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohperoni/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohperoni@gmail.com)
    
-## Languages and Tools:
+### Languages and Tools:
 
 <div align="center">
 
