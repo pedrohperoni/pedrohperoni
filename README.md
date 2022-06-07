@@ -5,22 +5,16 @@
 - ⚡ I'm looking for opportunities and collaboration in projects where I can improve my frontend skills and develop my backend knowledge
 - 👨‍💻 My best projects are available [here](https://github.com/pedrohperoni?tab=repositories)
 
+</br>
 
-<h3 align="center">
-  💬 Let's connect
-</h3>
-
-<div align="center">
+### 💬 Let's connect
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohperoni/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohperoni@gmail.com)
-   </div>
-   
-<h3 align="center">
-  👨‍💻  My Programming skills & working tools...
-</h3>
 
-<div align="center">
+</br>
+
+### 👨‍💻  My Programming skills & working tools...
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -48,7 +42,6 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
- </div>
  
  <h3 align="center">
   📈💻  Github Analytics
