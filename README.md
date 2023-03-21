@@ -1,10 +1,5 @@
 <h1 align="center"> Hi there <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="waving hand" width="30" height="30"> I'm Pedro</h1>
  
-- 🍀 I'm currently working on my personal project: [Foodify](https://yfidoof.vercel.app/) 🚧 work in progress 🚧
-- ⚡ I'm looking for opportunities and collaboration in projects where I can improve my frontend skills and develop my backend knowledge
-- 👨‍💻 My best projects are available [here](https://github.com/pedrohperoni?tab=repositories)
-
-
 ### 💬 Let's connect
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohperoni/)
